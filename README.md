@@ -24,6 +24,6 @@ for students, including:
   from asking more than one question at a time. At the end of each week, the bot
   also provides a summary of which staff were the most active in answering questions.
 
-## Docs and Setup
+## Setup
 
-Ready to dive in? Head to the `docs` directory to get started with Coordinate.
+Ready to dive in? [Check out this page on how to setup Coordinate for yourself!](docs/setup.md)
