@@ -1,5 +1,6 @@
+![Welcome to Coordinate!](./assets/banner.jpeg)
+
 # Coordinate
-<hr />
 
 Coordinate is a novel educational tool based on Discord. Coordinate is designed
 to help instructors and faculty manage large computer science courses. Coordinate
