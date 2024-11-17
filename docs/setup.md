@@ -126,11 +126,11 @@ able to access a survey with this format.
 Here are the values to provide to those environment variables:
 
 `QUALTRICS_API_DATACENTER (Field 2)`
-![](assets/user_qualtrics_table.png)
+![](../assets/user_qualtrics_table.png)
 `QUALTRICS_SURVEY_ID (Field 3)`
-![](assets/qualtrics_ids_table.png)
+![](../assets/qualtrics_ids_table.png)
 `QUALTRICS_FILTER_ID (Field 4)`
-![](assets/qualtrics_filter.png)
+![](../assets/qualtrics_filter.png)
 
 ## Run the Bot
 
